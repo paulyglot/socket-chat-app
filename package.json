@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-app",
+  "version": "1.0.0",
+  "description": "socket.io chat app made with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulyglot/socket-chat-app.git"
+  },
+  "author": "Paul Brower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulyglot/socket-chat-app/issues"
+  },
+  "homepage": "https://github.com/paulyglot/socket-chat-app#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
