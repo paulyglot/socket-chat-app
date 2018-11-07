@@ -19,20 +19,20 @@ TO CLONE AND GET APPLICATION READY
 
 TO TEST APPLICATION
 
-5. Proceed to your choice of browser and enter localhost:3000 to load chat application.
+4. Proceed to your choice of browser and enter localhost:3000 to load chat application.
 
-6. Open another supported browser unlike your first (e.g first browser Chrome, second browser Safari), and again enter localhost:3000 to see your chat appear in both browsers instantaneously.
+5. Open another supported browser unlike your first (e.g first browser Chrome, second browser Safari), and again enter localhost:3000 to see your chat appear in both browsers instantaneously.
 
-7. Test the chat application by typing into prompt box at bottom of either browser page.
+6. Test the chat application by typing into prompt box at bottom of either browser page.
 
 
  Next steps with my takehome chat assignment:
  
-  1. I would implemented the user is typing functionality. 
+  A. I would implemented the user is typing functionality. 
   
-  2. Broadcast to all users to show when someone connects or disconnects.
+  B. Broadcast to all users to show when someone connects or disconnects.
   
-  3. Add user name functionality to make the chatroom easier to read and look back at for reference.
+  C. Add user name functionality to make the chatroom easier to read and look back at for reference.
 
 
 Thanks for checking out my takehome assignment, and remember "where there is love, there is life" 
