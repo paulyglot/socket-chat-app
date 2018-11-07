@@ -14,9 +14,7 @@ TO CLONE AND GET APPLICATION READY
 3. In terminal, run:
 
     > npm install
-
-4. In terminal, run:
-
+    > npm install express
     > npm start  
 
 TO TEST APPLICATION
